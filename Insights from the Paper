@@ -1,0 +1,6 @@
+ABSTRACT:
+A Monte Carlo model of steady-state light transport in multi-layered tissues (MCML) has been coded in ANSI Standard C.
+
+1. Introduction
+
+C++ implementation of Monte Carlo Model of Light has been done, light is incident on the tissue normally. In all the applications of Monte Carlo, a stochastic model is constructed in which the expected value of random variable is equivalent to value of physical entity to be determined.The expected value is then estimated using the average of independent samples of the random variable introduced above.
